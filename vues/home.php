@@ -1,0 +1,1 @@
+<a href="index.php?p=contact">contact</a>

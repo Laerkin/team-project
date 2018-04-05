@@ -1,0 +1,25 @@
+form {
+	margin-top: 3.5em;
+}
+
+.map {
+	width:  250px;
+	height: 350px;
+	margin-top: 2.5em;
+  	border-radius: 50px;
+}
+
+.milieu {
+	border: 1px solid black;
+	width: 1px;
+}
+
+
+
+
+.map:hover{
+  -webkit-transform: scale(1.1);
+  transition: .3s ease-in-out;
+   
+  border-radius: 50px;
+  }  
